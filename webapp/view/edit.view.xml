@@ -1,0 +1,6 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="ui5-views.controller.edit"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+	<VBox id="shortpoint" class="shortpoint-edit-mode shortpoint-root-view">
+        <html:div class="shortpoint-editor" id="shortpointEditor">edit</html:div>
+    </VBox>
+</mvc:View>

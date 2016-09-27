@@ -1,0 +1,4 @@
+<mvc:View controllerName="ui5-views.controller.RootApp" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns:core="sap.ui.core" xmlns="sap.m">
+	<mvc:XMLView id="renderView" viewName="ui5-views.view.render" />
+    <mvc:XMLView id="editView" viewName="ui5-views.view.edit" />
+</mvc:View>
