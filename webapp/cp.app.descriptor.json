@@ -1,6 +1,6 @@
 [
 	{
-		"id": "hcp://playground/manifest.json",
+		"id": "hcp://ui5-views/manifest.json",
 		"_entityType": "PORTAL_SITE_V2_TEMPLATE_APP_CONFIG",
 		"path": "",
 		"name": "ui5-views",
