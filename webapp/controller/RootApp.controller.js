@@ -3,7 +3,7 @@ sap.ui.define([
 ], function(Controller) {
 	"use strict";
 
-	return Controller.extend("ui5-views.controller.RootApp", {
+	return Controller.extend("ui5views.controller.RootApp", {
 		onInit: function() {},
 
 		onAfterRendering: function() {

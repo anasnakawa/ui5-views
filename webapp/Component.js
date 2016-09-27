@@ -1,11 +1,11 @@
 sap.ui.define([
 	"sap/ui/core/UIComponent",
 	"sap/ui/Device",
-	"ui5-views/model/models"
+	"ui5views/model/models"
 ], function(UIComponent, Device, models) {
 	"use strict";
 
-	return UIComponent.extend("ui5-views.Component", {
+	return UIComponent.extend("ui5views.Component", {
 
 		metadata: {
 			manifest: "json"
@@ -26,7 +26,7 @@ sap.ui.define([
 
 		createContent: function() {
 		    this.view = sap.ui.view({
-				viewName: "ui5-views.view.RootApp",
+				viewName: "ui5views.view.RootApp",
                 type: sap.ui.core.mvc.ViewType.XML,
                 async: true
 			});

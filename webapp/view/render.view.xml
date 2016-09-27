@@ -1,4 +1,4 @@
-<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="ui5-views.controller.render"
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="ui5views.controller.render"
 	xmlns:html="http://www.w3.org/1999/xhtml">
 	<VBox id="shortpoint" class="shortpoint-root-view">
         <html:div id="shortpointViewer" class="shortpoint-viewer">render</html:div>

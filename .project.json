@@ -42,7 +42,7 @@
   },
   "hcpdeploy": {
     "account": "ad7a11dd8",
-    "name": "ui5-views",
+    "name": "ui5views",
     "lastVersionWeTriedToDeploy": "1.0.0"
   }
 }

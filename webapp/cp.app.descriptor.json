@@ -1,9 +1,9 @@
 [
 	{
-		"id": "hcp://ui5-views/manifest.json",
+		"id": "hcp://ui5views/manifest.json",
 		"_entityType": "PORTAL_SITE_V2_TEMPLATE_APP_CONFIG",
 		"path": "",
-		"name": "ui5-views",
+		"name": "ui5views",
 		"thumbnail": "",
 		"preview": ""
 	}
