@@ -38,10 +38,6 @@
 	},
 	"sap.ui5": {
 		"_version": "1.1.0",
-		"rootView": {
-			"viewName": "ui5views.view.RootApp",
-			"type": "XML"
-		},
 		"dependencies": {
 			"minUI5Version": "1.30.0",
 			"libs": {
